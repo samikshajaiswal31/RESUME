@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samiksha Jaiswal</h1>
-<h3 align="center">I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. 
+<h1 align="center"> Hi 👋, I'm Samiksha Jaiswal </h1>
+<h3 align="center">
+I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. 
 I don't know what everyone thinks about me. Nobody has ever called me a wizard. 
 Still, I take pride in the fact that I'm a good, solid programmer. 
 One who works hard at his craft and really enjoys it.Other than this, I love Music....
@@ -7,7 +8,7 @@ One who works hard at his craft and really enjoys it.Other than this, I love Mus
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchauhan9036&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchauhan9036" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchauhan9036" alt="abhishekchauhan9036" /></a> </p>
 <p align="left"> <a href="https://twitter.com/@abhishe9036" target="blank"><img src="https://img.shields.io/twitter/follow/@abhishe9036?logo=twitter&style=for-the-badge" alt="@abhishe9036" /></a> </p>
-- 📫 How to reach me **abhishekchauhan9036@gmail.com**
+- 📫 How to reach me **samikshajaiswal31@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abhishe9036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishe9036" height="30" width="40" /></a>
