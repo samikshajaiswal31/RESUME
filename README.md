@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Samiksha Jaiswal </h1>
+<h1 align="center"> Hi 👋, I am Samiksha Jaiswal </h1>
 <h3 align="center">
 I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. 
 I don't know what everyone thinks about me. Nobody has ever called me a wizard. 
